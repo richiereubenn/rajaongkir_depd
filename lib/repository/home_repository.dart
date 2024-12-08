@@ -2,7 +2,7 @@ import 'package:depd_week7/data/app_exception.dart';
 import 'package:depd_week7/data/network/network_api_services.dart';
 import 'package:depd_week7/model/city.dart';
 import 'package:depd_week7/model/model.dart';
-import 'package:depd_week7/model/costs/cost_calculate.dart';
+import 'package:depd_week7/model/cost_calculate.dart';
 
 class HomeRepository {
   final _apiServices = NetworkApiServices();

@@ -20,5 +20,9 @@ class Cost extends Equatable {
       };
 
   @override
-  List<Object?> get props => [value, etd, note];
+  List<Object?> get props => [
+    value, 
+    etd, 
+    note
+  ];
 }

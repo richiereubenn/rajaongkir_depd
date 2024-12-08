@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:depd_week7/data/response/api_response.dart';
 import 'package:depd_week7/model/city.dart';
 import 'package:depd_week7/model/model.dart';
-import 'package:depd_week7/model/costs/cost_calculate.dart';
+import 'package:depd_week7/model/cost_calculate.dart';
 import 'package:depd_week7/repository/home_repository.dart';
 
 class HomeViewmodel with ChangeNotifier {
